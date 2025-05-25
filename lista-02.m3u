@@ -84,6 +84,119 @@ https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="1243" tvg-name="TVMas2" tvg-logo="https://cdn.m3u.cl/logo/1243_TVMas2.png", TVMas2 | CL
 https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
 
+#USA
+#EXTINF:-1 tvg-id="ABCNewsLive.us",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="FashionFinds.us",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+
+#EXTINF:-1 tvg-id="FidoTV.us",Fido TV (1080p)
+https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
+
+#EXTINF:-1 tvg-id="Go2Travel.us",Go2Travel (1080p)
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="",Golden Boy
+https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden TV (240p) [Not 24/7]
+https://bozztv.com/gusa/gusa-goldentv/index.m3u8
+#EXTINF:-1 tvg-id="GoodLife45.us",GoodLife 45 (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us",FOX Business (1080p)
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" http-referrer="https://www.newslive.com/" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",Fox News Channel (720p)
+#EXTVLCOPT:http-referrer=https://www.newslive.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" http-referrer="https://webxzplay.cfd/" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",Fox News Channel (720p)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium347/mono.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel (144p)
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxNewsRadio.us",Fox News Radio (720p)
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us",Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="FreeSpeechTV.us",Free Speech TV (720p)
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us",Fun Roads (404p)
+http://104.143.4.5:2080/funroads.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TVSBowlingNetwork.us",TVS Bowling Network (720p)
+https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us",TVS Boxing (360p)
+https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="TVSCipherNetwork.us",TVS Cipher Network (360p)
+https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicMovies.us",TVS Classic Movies (288p)
+https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us",TVS Classic Sports (360p)
+https://bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us",TVS Comedy Network (720p)
+https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us",TVS Family Channel (360p)
+https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us",TVS Film Noir Network (720p)
+https://bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 tvg-id="TVSFlashbackNetwork.us",TVS Flashback Network (360p)
+https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-id="",TVS Frontier Network (360p)
+https://bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 tvg-id="TVSHiTops.us",TVS Hi Tops (720p)
+https://bozztv.com/gusa/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us",TVS Hollywood History (582p)
+https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-id="TVSMainstreet.us",TVS Mainstreet (360p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-id="TVSMusicNetwork.us",TVS Music Network (720p)
+https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgia.us",TVS Nostalgia (472p)
+https://bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us",TVS Nostalgia Movies (480p)
+https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSPetParadeNetwork.us",TVS Pet Parade Network (360p)
+https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us",TVS Pinball Network (480p)
+https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="TVSQuizShowNetwork.us",TVS Quiz Show Network (720p)
+https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 tvg-id="TVSSelectNetwork.us",TVS Select Network (720p)
+https://bozztv.com/gusa/gusa-tvsselect/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us",TVS Sports (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us",TVS Sports Bureau (720p)
+https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSTalkNetwork.us",TVS Talk Network (360p)
+https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
+#EXTINF:-1 tvg-id="TVSTallyHo.us",TVS Tally Ho (360p)
+https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 tvg-id="TVSTavern.us",TVS Tavern (480p)
+https://bozztv.com/gusa/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us",TVS Television Network (480p)
+https://bozztv.com/gusa/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-id="TVSTravelNetwork.us",TVS Travel Network (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us",TVS Turbo (360p)
+https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="TVSVintageNetwork.us",TVS Vintage Network (360p)
+https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+#EXTINF:-1 tvg-id="TVSWesternMovie.us",TVS Western Movie (270p)
+https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us",TVS Women Sports (720p)
+https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="TVSConsumerDirect.us",TVSConsumerDirect
+
+#EXTINF:-1 tvg-id="GreatAmericanCountry.us",Great American Country
+https://fl3.moveonjoy.com/Great_American_Country/index.m3u8
+#EXTINF:-1 tvg-id="History.us",History
+http://23.237.104.106:8080/USA_HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="MeTV.us",MeTV
+https://fl3.moveonjoy.com/ME_TV/index.m3u8
 
 
 #EXTM3U
