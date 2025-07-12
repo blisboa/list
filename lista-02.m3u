@@ -12,8 +12,6 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 
 
-
-
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png", VClassicTV ✪ | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
@@ -126,10 +124,6 @@ https://247wlive.foxweather.com/stream/index.m3u8
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 tvg-id="FunRoads.us",Fun Roads (404p)
 http://104.143.4.5:2080/funroads.m3u8
-
-#EXTINF:-1 tvg-id="TVSWomenSports.us",TVS Women Sports (720p)
-https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
-#EXTINF:-1 tvg-id="TVSConsumerDirect.us",TVSConsumerDirect
 
 #EXTINF:-1 tvg-id="GreatAmericanCountry.us",Great American Country
 https://fl3.moveonjoy.com/Great_American_Country/index.m3u8
