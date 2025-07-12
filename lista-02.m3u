@@ -132,8 +132,6 @@ http://23.237.104.106:8080/USA_HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.us",MeTV
 https://fl3.moveonjoy.com/ME_TV/index.m3u8
 
-
-#EXTM3U
 #EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://img.teleclub.xyz/evento.png" group-title="Eventos", Teleclub
 http://tv.teleclub.xyz/stream/server_0/eventos/evento01/master.m3u8
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
