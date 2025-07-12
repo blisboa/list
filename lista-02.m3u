@@ -125,8 +125,6 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 #EXTINF:-1 tvg-id="FunRoads.us",Fun Roads (404p)
 http://104.143.4.5:2080/funroads.m3u8
 
-
-https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-id="TVSWomenSports.us",TVS Women Sports (720p)
 https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="TVSConsumerDirect.us",TVSConsumerDirect
